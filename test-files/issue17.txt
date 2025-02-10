@@ -1,0 +1,5 @@
+*6,Closed,Enhancement,Issue description,owner,false,WorksForMe
+-[New] Note 1
+that goes on a new line
+-[Working] Note 2
+-[Closed - wrong resolution type for enhancement] Note 3
