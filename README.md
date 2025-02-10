@@ -4,3 +4,11 @@ User is able to send an issue to different states based on certain criteria.
 
 
 Previous Git commit history is located inside the logs folder, then opening the HEAD file.
+
+Project_docs contains a system test plan.
+
+src contains all source code.
+
+test contains test code.
+
+test-files contains files used for testing.
